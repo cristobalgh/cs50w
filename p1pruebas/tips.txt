@@ -1,0 +1,8 @@
+api key: pIE93ut7872nrDatDk7ThQ
+en windows:
+set DATABASE_URL=postgres://cmvhhdaqdfolel:5c73a893a7338182dbe7bbe391d53f39c5b0ffc4f0798f382d9a3ef3704a75c6@ec2-23-21-91-183.compute-1.amazonaws.com:5432/d54otjn4tdnqdl
+
+en linux:
+export DATABASE_URL=postgres://cmvhhdaqdfolel:5c73a893a7338182dbe7bbe391d53f39c5b0ffc4f0798f382d9a3ef3704a75c6@ec2-23-21-91-183.compute-1.amazonaws.com:5432/d54otjn4tdnqdl
+
+Para que import.py funcione
